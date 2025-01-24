@@ -1,0 +1,3 @@
+cd $HOME/OT
+chmod +x etc/菜单
+etc/./菜单
