@@ -2,3 +2,5 @@ cd $HOME/OT
 chmod +x etc/OT
 chmod +x etc/repack
 etc/./OT
+etc/./OT
+clear
